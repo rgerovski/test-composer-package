@@ -1,5 +1,5 @@
 {
-    "name": "rubin-gjerovski/test-composer-package",
+    "name": "gjerovski/test-composer-package",
     "description": "Test Composer Package",
     "type": "library",
     "autoload": {
