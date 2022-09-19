@@ -1,0 +1,16 @@
+{
+    "name": "rubin-gjerovski/test-composer-package",
+    "description": "Test Composer Package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "RubinGjerovski\\TestComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rubin Gjerovski"
+        }
+    ],
+    "require": {}
+}
